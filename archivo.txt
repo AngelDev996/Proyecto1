@@ -4,3 +4,10 @@ modificacion xd
 modificacion 2
 
 modificacion 3
+
+int main(){
+
+cout<<"Hola mundo"<<endl;
+
+return 0;
+}
